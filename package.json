@@ -1,0 +1,26 @@
+{
+  "name": "a-catcher",
+  "version": "1.0.0",
+  "description": "Catch and handle click on local links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krazylek/a-catcher.git"
+  },
+  "keywords": [
+    "link",
+    "click",
+    "intercept",
+    "spa",
+    "single-page-app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krazylek/a-catcher/issues"
+  },
+  "homepage": "https://github.com/krazylek/a-catcher#readme"
+}
