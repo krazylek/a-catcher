@@ -1,4 +1,3 @@
-'use strict';
 /*
  * intercept clicks on A elements on the page, usefull for single page app.
  * (Element, function) -> undefined
